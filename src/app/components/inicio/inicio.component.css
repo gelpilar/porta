@@ -1,0 +1,93 @@
+#contenedora
+{
+   
+    height: 100vh;
+    width: 70%;
+    overflow:hidden;
+    
+
+    display: flex;
+    align-items: flex-start;
+   
+
+}
+
+
+#logo{
+
+    width: 50%;
+}
+
+#desa
+{
+    color: #80BCBD;
+    font-family: 'Roboto', sans-serif;
+font-size: 3rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 9.6px;
+}
+
+#izquierda
+{
+ 
+  
+    width: 45vw;
+    height: 100vh;
+    float: left;
+    
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+    
+
+}
+
+
+button
+{
+    background-color: #7fb894;
+    border-radius:1rem ;
+    width: 15rem;
+    height: 4rem;
+    border-style:none ;
+    font-size: 2rem;
+    color: aliceblue;
+ 
+}
+
+#nombre
+{
+    color: #8DCEA4;
+
+    font-family: 'Roboto', sans-serif;
+font-size: 3rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 9.6px;
+transform: rotate(-90deg);
+flex-shrink: 0;
+position: relative;
+top: 10rem;
+
+
+}
+#derecha
+{
+ 
+    
+    width: 45vw;
+    height: 100vh;
+    float: left;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    
+
+
+}
+
+

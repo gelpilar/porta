@@ -1,0 +1,45 @@
+section
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+#descripcion
+{
+    width: 30rem;
+    height: 15rem;
+    text-align: center;
+    position: relative;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    border-radius: 10rem;
+    margin-left: 5rem;
+}
+#des
+{
+    padding: 1rem;
+
+}
+
+#arriba
+{
+    display: flex;
+}
+h3,h2
+{
+    color: rgb(250, 245, 239);
+}
+
+#izquierda
+{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul
+{
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

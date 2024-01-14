@@ -1,0 +1,9 @@
+body
+{
+    background: linear-gradient(#F9F7C9,#AAD9BB,#80BCBD,#F9F7C9);
+
+    place-items: center;
+    height: 370vh;
+    display: grid;
+    align-content: start;
+}

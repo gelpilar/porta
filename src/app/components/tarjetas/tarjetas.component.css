@@ -1,0 +1,31 @@
+span
+{
+    position: relative;
+    display: flex;
+    margin: 1rem;
+    width: 10rem;
+    height: 15rem;
+    background-color: rgb(240, 232, 232);
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 1rem;
+}
+img{
+    margin-top:1rem ;
+    width: 4rem;
+    height: 4rem;
+}
+
+p
+{
+    color: rgb(70, 69, 69);
+    align-items: center;
+    padding-left: 2rem;
+    padding-bottom:1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+h4
+{
+    color: rgb(39, 38, 38);
+}
